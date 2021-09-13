@@ -6,4 +6,5 @@ Installation/Usage
 
 To install use pip:
 
-$ pip install allcountries
+::
+  $ pip install allcountries
