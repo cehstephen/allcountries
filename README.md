@@ -50,4 +50,5 @@ Extra Info
         | about virtualenv at http://www.virtualenv.org/
         
 
-        
+
+[![Downloads](https://static.pepy.tech/personalized-badge/allcountries?period=total&units=international_system&left_color=orange&right_color=blue&left_text=Downloads)](https://pepy.tech/project/allcountries)
